@@ -1,0 +1,11 @@
+Hi
+
+Frist of all I would like to thank you for u r time and the opportunity given .
+
+My name is MANOJKUMAR And Iam working as software test engineer for the past 3.4 years at ODCET Technology.
+
+During my experience I have worked on multiple projects. Where Iam involved in testing different kind of technologies like web UI and API. 
+
+Iam currently working for a project called Safeway. It is an e- commerce platform in us, where it sells grocery and households. Besides this it provides compatibility to offline seller to come online and sell their products . 
+
+In this project I used to work on the cart module. Here I used validate whether the product and the price are being added correctly with all the charges and coupons.

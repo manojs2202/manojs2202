@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="false"
+          name="D:/RestAssured_1_Proj/EmployeesServer/src/test/java/SeleniumDemo/Assertions01.java">
+        <classes>
+            <class name="SeleniumDemo.Assertions01">
+                <methods>
+                    <include name="box01"/>
+                    <include name="box02"/>
+                    <include name="box03"/>
+                    <include name="box04"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

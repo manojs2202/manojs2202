@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/RestAssured_1_Proj/EmployeesServer/src/test/java/seleniumPack">
+        <classes>
+            <class name="seleniumPack.Selenium03"/>
+            <class name="seleniumPack.Selenium04"/>
+            <class name="seleniumPack.Selenium05"/>
+        </classes>
+    </test>
+</suite>

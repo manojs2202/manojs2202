@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="D:/RestAssured_1_Proj/EmployeesServer/src/test/java/seleniumPackage02">
+        <classes>
+            <class name="seleniumPackage02.Class04EditBox"/>
+            <class name="seleniumPackage02.Class14Draggable"/>
+            <class name="seleniumPackage02.Class15Selectable"/>
+            <class name="seleniumPackage02.Class16ToolTip"/>
+            <class name="seleniumPackage02.Class17Images"/>
+            <class name="seleniumPackage02.Class18autoComplete"/>
+            <class name="seleniumPackage02.Class19Table"/>
+            <class name="seleniumPackage02.Class22Calendar"/>
+            <class name="seleniumPackage02.Class23Download"/>
+            <class name="seleniumPackage02.Class24Upload"/>
+            <class name="seleniumPackage02.Class24_1Upload"/>
+            <class name="seleniumPackage02.SeleniumClass21WebTable"/>
+        </classes>
+    </test>
+</suite>

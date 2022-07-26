@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="D:/RestAssured_1_Proj/EmployeesServer/src/test/java/TheInternetHerokuApp/ABTesting.java">
+        <classes>
+            <class name="TheInternetHerokuApp.ABTesting">
+                <methods>
+                    <include name="aBClick"/>
+                    <include name="addRemoveElements"/>
+                    <include name="basicURL"/>
+                    <include name="brokenImages"/>
+<!--                    <include name="Checkboxes"/>-->
+<!--                    <include name="contextMenu"/>-->
+<!--                    <include name="digestAuthentication"/>-->
+<!--                    <include name="dragAndDrop"/>-->
+<!--                    <include name="horizontalSlider"/>-->
+<!--                    <include name="dropdownList"/>-->
+<!--                    <include name="fileDownload"/>-->
+<!--                    <include name="fileUpload"/>-->
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
